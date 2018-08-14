@@ -19,14 +19,24 @@ Inspired by [Awesome GIS](https://github.com/sshuair/awesome-gis).
 This benchmark library is curated and maintained by the IEEE PES Task Force on Benchmarks for Validation of Emerging Power System Algorithms and is designed to evaluate a well established version of the the AC Optimal Power Flow problem. 
 
 
-
 ## Production Cost Modeling
 - [PyPSA](https://github.com/PyPSA/PyPSA) - PyPSA stands for "Python for Power System Analysis". It is pronounced "pipes-ah".
-
 
 ## Data
 - [Reliability Test System](https://github.com/GridMod/RTS-GMLC) - Reliability Test System - Grid Modernization Lab Consortium
 - [pyiso](https://github.com/WattTime/pyiso) - pyiso provides Python client libraries for ISO and other power grid data sources. It powers the WattTime API (https://api.watttime.org/), among other things.
+- [PowerSystems.jl](https://github.com/NREL/PowerSystems.jl) - Data structures in Julia to enable power systems analysis
+
+## Modeling & Optimization
+- [JuMP](https://github.com/JuliaOpt/JuMP.jl) - Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)
+- [StructJuMP](https://github.com/StructJuMP/StructJuMP.jl) - A block-structured optimization framework for JuMP
+- [Pyomo]()
+- [Pyomo](http://www.pyomo.org/) - Pyomo is a Python-based, open-source optimization modeling language with a diverse set of optimization capabilities.
+- [Gams](https://www.gams.com/) - The General Algebraic Modeling System (GAMS) is a high-level modeling system for mathematical optimization. GAMS is designed for modeling and solving linear, nonlinear, and mixed-integer optimization problems.
+
+## Solvers
+- [DSP](https://github.com/Argonne-National-Laboratory/DSP) - An open-source parallel optimization solver for stochastic mixed-integer programming
+
 
 ## Reference:
 >1. [Power Flow Study](https://en.wikipedia.org/wiki/Power-flow_study)
