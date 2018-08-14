@@ -65,6 +65,9 @@ This benchmark library is curated and maintained by the IEEE PES Task Force on B
 
 ## Solvers
 - [DSP](https://github.com/Argonne-National-Laboratory/DSP) - An open-source parallel optimization solver for stochastic mixed-integer programming
+- [Gurobi](http://www.gurobi.com/index) - The Gurobi Optimizer was designed from the ground up to be the fastest, most powerful solver available for your LP, QP, QCP, and MIP (MILP, MIQP, and MIQCP) problems. 
+- [IBM CPLEX](https://www.ibm.com/analytics/cplex-optimizer) - IBM ILOG CPLEX Optimization Studio provides powerful modeling tools to convert business problems to optimization models and solve  the breadth of optimization problems.
+- [FICO Xpress](http://www.fico.com/en/products/fico-xpress-optimization) - FICO’s deep portfolio of optimization options enables users to easily build, deploy and use optimization solutions that meet their needs. 
 
 
 ## Reference:
