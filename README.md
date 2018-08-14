@@ -30,6 +30,8 @@ This benchmark library is curated and maintained by the IEEE PES Task Force on B
 - [PyPSA](https://github.com/PyPSA/PyPSA) - PyPSA stands for "Python for Power System Analysis". It is pronounced "pipes-ah".
 - [Plexos](https://energyexemplar.com/products/plexos-simulation-software/) - Plexos uses mathematical multi-commodity optimization to provide a high-performance, robust simulation system for electric power, water and gas.
 - [AuroraXMP](https://energyexemplar.com/products/aurora-simulation-software/) - Aurora is a comprehensive and reliable electricity price forecasting and analysis tool. 
+- [Enelytix](http://www.enelytix.com/) - Enelytix integrates a best-in-class power-system simulation engine with data services, scalable and on-demand compute resources and state-of-the-art business analytics tools.  Powered by PSO
+- [PSO](http://psopt.com/pso/) - Polaris' PSO is a production cost market simulator that supports the modeling of multi-level, nested time intervals that simultaneously optimize energy and ancillary services dispatch, and can simulate uncertainties.
 
 ## Simulation Tool
 - [OpenDSS](http://smartgrid.epri.com/SimulationTool.aspx) - The OpenDSS is a comprehensive electrical power system simulation tool primarly for electric utility power distribution systems. It supports nearly all frequency domain (sinusoidal steady‐state) analyses commonly performed on electric utility power distribution systems. In addition, it supports many new types of analyses that are designed to meet future needs related to smart grid, grid modernization, and renewable energy research. 
