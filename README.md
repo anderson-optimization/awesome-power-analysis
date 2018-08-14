@@ -22,8 +22,6 @@ Inspired by [Awesome GIS](https://github.com/sshuair/awesome-gis).
 
 
 ## Power Flow
-- [Benchmarks for OPF Problem](https://github.com/power-grid-lib/pglib-opf) - 
-This benchmark library is curated and maintained by the IEEE PES Task Force on Benchmarks for Validation of Emerging Power System Algorithms and is designed to evaluate a well established version of the the AC Optimal Power Flow problem. 
 - [PyPSA](https://github.com/PyPSA/PyPSA) - PyPSA stands for "Python for Power System Analysis". It is pronounced "pipes-ah".
 
 ## Production Cost Modeling
@@ -46,6 +44,10 @@ This benchmark library is curated and maintained by the IEEE PES Task Force on B
 - [Reliability Test System](https://github.com/GridMod/RTS-GMLC) - Reliability Test System - Grid Modernization Lab Consortium
 - [pyiso](https://github.com/WattTime/pyiso) - pyiso provides Python client libraries for ISO and other power grid data sources. It powers the WattTime API (https://api.watttime.org/), among other things.
 
+## Benchmarks
+- [Power Grid Lib](https://power-grid-lib.github.io/) - Benchmarks for Validating Power System Algorithms
+- [Benchmarks for OPF Problem](https://github.com/power-grid-lib/pglib-opf) - 
+This benchmark library is curated and maintained by the IEEE PES Task Force on Benchmarks for Validation of Emerging Power System Algorithms and is designed to evaluate a well established version of the the AC Optimal Power Flow problem. 
 
 ## Visualization
 - [MAGMA](https://github.com/NREL/MAGMA) - Multi-area Grid Metrics Analyzer
