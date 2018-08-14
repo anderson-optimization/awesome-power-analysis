@@ -24,8 +24,9 @@ This benchmark library is curated and maintained by the IEEE PES Task Force on B
 - [PyPSA](https://github.com/PyPSA/PyPSA) - PyPSA stands for "Python for Power System Analysis". It is pronounced "pipes-ah".
 
 
-## Datasets
+## Data
 - [Reliability Test System](https://github.com/GridMod/RTS-GMLC) - Reliability Test System - Grid Modernization Lab Consortium
+- [pyiso](https://github.com/WattTime/pyiso) - pyiso provides Python client libraries for ISO and other power grid data sources. It powers the WattTime API (https://api.watttime.org/), among other things.
 
 ## Reference:
 >1. [Power Flow Study](https://en.wikipedia.org/wiki/Power-flow_study)
