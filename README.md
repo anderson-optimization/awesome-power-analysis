@@ -24,6 +24,9 @@ This benchmark library is curated and maintained by the IEEE PES Task Force on B
 - [PyPSA](https://github.com/PyPSA/PyPSA) - PyPSA stands for "Python for Power System Analysis". It is pronounced "pipes-ah".
 
 
+## Datasets
+- [Reliability Test System](https://github.com/GridMod/RTS-GMLC) - Reliability Test System - Grid Modernization Lab Consortium
+
 ## Reference:
 >1. [Power Flow Study](https://en.wikipedia.org/wiki/Power-flow_study)
 >2. [Power Systems Analysis Software Wiki](https://wiki.openelectrical.org/index.php?title=Power_Systems_Analysis_Software)
