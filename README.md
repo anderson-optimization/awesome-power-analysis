@@ -47,6 +47,9 @@ This benchmark library is curated and maintained by the IEEE PES Task Force on B
 - [pyiso](https://github.com/WattTime/pyiso) - pyiso provides Python client libraries for ISO and other power grid data sources. It powers the WattTime API (https://api.watttime.org/), among other things.
 - [PowerSystems.jl](https://github.com/NREL/PowerSystems.jl) - Data structures in Julia to enable power systems analysis
 
+## Visualization
+- [MAGMA](https://github.com/NREL/MAGMA) - Multi-area Grid Metrics Analyzer
+
 ## Modeling & Optimization
 - [JuMP](https://github.com/JuliaOpt/JuMP.jl) - Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)
 - [StructJuMP](https://github.com/StructJuMP/StructJuMP.jl) - A block-structured optimization framework for JuMP
