@@ -59,6 +59,7 @@ This benchmark library is curated and maintained by the IEEE PES Task Force on B
 - [StructJuMP](https://github.com/StructJuMP/StructJuMP.jl) - A block-structured optimization framework for JuMP
 - [Pyomo](http://www.pyomo.org/) - Pyomo is a Python-based, open-source optimization modeling language with a diverse set of optimization capabilities.
 - [Gams](https://www.gams.com/) - The General Algebraic Modeling System (GAMS) is a high-level modeling system for mathematical optimization. GAMS is designed for modeling and solving linear, nonlinear, and mixed-integer optimization problems.
+- [AMPL](https://ampl.com/) - Build optimization into your large-scale applications — quickly and reliably — using AMPL’s powerful yet intuitive algebraic modeling system.
 - [PowerSystems.jl](https://github.com/NREL/PowerSystems.jl) - Data structures in Julia to enable power systems analysis
 - [PowerModels.jl](https://github.com/lanl-ansi/PowerModels.jl) - PowerModels.jl is a Julia/JuMP package for Steady-State Power Network Optimization. 
 - [ThreePhasePowerModels.jl](https://github.com/lanl-ansi/ThreePhasePowerModels.jl) - A Julia/JuMP Package for Three Phase Power Network Optimization
