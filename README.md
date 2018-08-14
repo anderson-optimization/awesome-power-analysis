@@ -10,6 +10,10 @@ Inspired by [Awesome GIS](https://github.com/sshuair/awesome-gis).
 
 - [Power Flow](#power-flow)
 - [Production Cost Modeling](#production-cost-modeling)
+- [Simulation Tool](#simulation-tool)
+- [Data](#data)
+- [Modeling & Optimization](#modeling-and-optimization)
+- [Solvers](#solvers)
 
 
 ----
