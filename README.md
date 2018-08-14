@@ -15,11 +15,13 @@ Inspired by [Awesome GIS](https://github.com/sshuair/awesome-gis).
 ----
 
 ## Power Flow
-- [ArcGIS](https://www.arcgis.com/) - A enterprise level desktop GIS software published by Ersi
+- [Benchmarks for OPF Problem](https://github.com/power-grid-lib/pglib-opf) - 
+This benchmark library is curated and maintained by the IEEE PES Task Force on Benchmarks for Validation of Emerging Power System Algorithms and is designed to evaluate a well established version of the the AC Optimal Power Flow problem. 
+
 
 
 ## Production Cost Modeling
-- [Skyline](http://www.skylineglobe.com/SkylineGlobe/corporate/Default.aspx?) - A glimpse into Skyline's cutting-edge 3D geospatial visualization products, and their potential to transform the way your organization makes decisions, shares information and manages its assets
+- [PyPSA](https://github.com/PyPSA/PyPSA) - PyPSA stands for "Python for Power System Analysis". It is pronounced "pipes-ah".
 
 
 ## Reference:
