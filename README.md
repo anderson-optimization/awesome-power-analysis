@@ -44,6 +44,7 @@ Inspired by [Awesome GIS](https://github.com/sshuair/awesome-gis).
 ## Data
 - [Reliability Test System](https://github.com/GridMod/RTS-GMLC) - Reliability Test System - Grid Modernization Lab Consortium
 - [pyiso](https://github.com/WattTime/pyiso) - pyiso provides Python client libraries for ISO and other power grid data sources. It powers the WattTime API (https://api.watttime.org/), among other things.
+- [dsgrid](https://www.nrel.gov/analysis/electrification-futures.html) - a new model developed for the EFS and in recognition of a general need for a more detailed understanding of electricity load. dsgrid utilizes a suite of bottom-up engineering models across all major sectors to develop hourly electricity consumption profiles for every county in the contiguous United States.
 
 ## Benchmarks
 - [Power Grid Lib](https://power-grid-lib.github.io/) - Benchmarks for Validating Power System Algorithms
