@@ -73,6 +73,9 @@ This benchmark library is curated and maintained by the IEEE PES Task Force on B
 - [FICO Xpress](http://www.fico.com/en/products/fico-xpress-optimization) - FICO’s deep portfolio of optimization options enables users to easily build, deploy and use optimization solutions that meet their needs. 
 
 
+## Misc
+- [NREL Data and Tools](https://www.nrel.gov/analysis/data-tools.html) - NREL energy analysis data and tools.
+
 ## Reference:
 >1. [Power Flow Study](https://en.wikipedia.org/wiki/Power-flow_study)
 >2. [Power Systems Analysis Software Wiki](https://wiki.openelectrical.org/index.php?title=Power_Systems_Analysis_Software)
