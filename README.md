@@ -24,6 +24,8 @@ Inspired by [Awesome GIS](https://github.com/sshuair/awesome-gis).
 ## Power Flow
 - [MatPower](http://www.pserc.cornell.edu/matpower/) - MATPOWER is a package of free, open-source Matlab-language M-files for solving steady-state power system simulation and optimization problems such as power flow (PF), continuation power flow (CPF), extensible optimal power flow (OPF), unit commitment (UC) and stochastic, secure multi-interval OPF/UC.
 - [PyPSA](https://github.com/PyPSA/PyPSA) - PyPSA stands for "Python for Power System Analysis". It is pronounced "pipes-ah".
+- [pandapower](https://github.com/e2nIEE/pandapower) - pandapower combines the data analysis library pandas and the power flow solver PYPOWER to create an easy to use network calculation program aimed at automation of analysis and optimization in power systems.
+- [PYPOWER](https://github.com/rwl/PYPOWER) - _not actively maintained_ - PYPOWER is a power flow and Optimal Power Flow (OPF) solver. It is a port of MATPOWER to the Python programming language.
 
 ## Production Cost Modeling
 - [PyPSA](https://github.com/PyPSA/PyPSA) - PyPSA stands for "Python for Power System Analysis". It is pronounced "pipes-ah".
