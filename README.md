@@ -27,6 +27,7 @@ Inspired by [Awesome GIS](https://github.com/sshuair/awesome-gis).
 - [pandapower](https://github.com/e2nIEE/pandapower) - pandapower combines the data analysis library pandas and the power flow solver PYPOWER to create an easy to use network calculation program aimed at automation of analysis and optimization in power systems.
 - [PYPOWER](https://github.com/rwl/PYPOWER) - _not actively maintained_ - PYPOWER is a power flow and Optimal Power Flow (OPF) solver. It is a port of MATPOWER to the Python programming language.
 - [GAMS - PSOPT](https://www.gams.com/latest/psoptlib_ml/libhtml/index.html) - This is a listing of the models available in the on-line model library (PSOPTLIB) based on the book Power System Optimization Modelling in GAMS by Alireza Soroudi.
+- [NEOS - Optimal Power Flow](https://neos-guide.org/content/optimal-power-flow) - The Optimal Power Flow (OPF) model represents the problem of determining the best operating levels for electric power plants in order to meet demands given throughout a transmission network, usually with the objective of minimizing operating cost.
 
 ## Production Cost Modeling
 - [PyPSA](https://github.com/PyPSA/PyPSA) - PyPSA stands for "Python for Power System Analysis". It is pronounced "pipes-ah".
