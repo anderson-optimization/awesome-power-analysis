@@ -78,6 +78,9 @@ This benchmark library is curated and maintained by the IEEE PES Task Force on B
 - [FICO Xpress](http://www.fico.com/en/products/fico-xpress-optimization) - FICO’s deep portfolio of optimization options enables users to easily build, deploy and use optimization solutions that meet their needs. 
 
 
+## Groups/Organizations
+- [Energy System Modelling](https://www.iai.kit.edu/english/esm.php) The group "Energy System Modelling" researches the most cost-effective pathways to reduce greenhouse gas emissions in the energy system. 
+
 ## Misc
 - [NREL Data and Tools](https://www.nrel.gov/analysis/data-tools.html) - NREL energy analysis data and tools.
 
