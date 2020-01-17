@@ -11,6 +11,8 @@ Inspired by [Awesome GIS](https://github.com/sshuair/awesome-gis).
 - [Power Flow](#power-flow)
 - [Production Cost Modeling](#production-cost-modeling)
 - [Simulation Tool](#simulation-tool)
+- [Microgrid](#microgrid)
+- [Solar Analysis](#solar-analysis)
 - [Data](#data)
 - [Modeling & Optimization](#modeling-and-optimization)
 - [Solvers](#solvers)
@@ -45,6 +47,10 @@ Inspired by [Awesome GIS](https://github.com/sshuair/awesome-gis).
 ## Microgrid
 - [HOMER](https://www.homerenergy.com/) - HOMER is the global standard for microgrid and distributed energy system design.
 
+
+## Solar Analysis
+
+- [RdTools](https://github.com/NREL/rdtools) - RdTools is a set of Python tools for analysis of photovoltaic data. 
 
 ## Data
 - [Reliability Test System](https://github.com/GridMod/RTS-GMLC) - Reliability Test System - Grid Modernization Lab Consortium
